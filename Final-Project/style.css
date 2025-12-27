@@ -1,0 +1,86 @@
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg);
+    background-size: fill;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    margin: 0;
+    height: 100vh;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+
+    background-color: black;
+}
+img{
+    height: 100px;
+    border-radius: 10px;
+    margin: 10px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    width: 100%;
+    list-style: none;
+    margin-left: 10%;
+}
+li{
+    font-size: 20px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+form{
+    margin-right: 10%;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+}
+input{
+    height: 40px;
+    width: 100%;
+    border-radius: 10px;
+}
+input[type="submit"], input[type="reset"]{
+    width: 80px
+}
+.blury-box{
+    border-radius: 30px;
+    border: red solid 5px;
+    align-self: center;
+    width: 50%;
+    height: fit-content;
+    margin: 30px;
+    padding: 30px;
+    background-color: rgba(128, 0, 128, 0.552);
+    backdrop-filter: blur(5px);
+    color: rgb(255, 255, 255);
+
+}
+.big-text{
+    font-size: 50px;
+}
+.extra-big-text{
+    font-size: 70px;
+}
+.popupbox{
+    position: fixed;
+    height: fit-content;
+    width: 400px;
+    border: 5px red solid;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+
+    top: 400px;
+    left: 78%;
+    transform: translate(-50%, -50%);
+
+    padding: 10px;
+}

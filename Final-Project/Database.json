@@ -1,0 +1,18 @@
+{
+
+    "beaches" : [
+        {"country" : "canada", "place" : "wasaga", "details" : "Famous freshwater beach on Georgian Bay, great for water sports and nature.", "picture" : "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSez78nPPcKcGF54lAo2r23jDYJ2cR5VCujQjG2q3p8ry4fjdKxNRZBk45vfg0LBOlLdF0zD8-xEmFk8QZnNrJFcaAn&s=19"},
+        {"country" : "canada", "place" : "Parlee", "details" : "Known for having Canada's warmest saltwater, ideal for families.", "picture" : "https://upload.wikimedia.org/wikipedia/commons/e/ea/Plage_Parlee.JPG"}
+    ],
+
+    "canada" : [
+        {"country" : "canada", "place" : "wasaga", "details" : "Famous freshwater beach on Georgian Bay, great for water sports and nature.", "picture" : "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSez78nPPcKcGF54lAo2r23jDYJ2cR5VCujQjG2q3p8ry4fjdKxNRZBk45vfg0LBOlLdF0zD8-xEmFk8QZnNrJFcaAn&s=19"},
+        {"country" : "canada", "place" : "Parlee", "details" : "Known for having Canada's warmest saltwater, ideal for families.", "picture" : "https://upload.wikimedia.org/wikipedia/commons/e/ea/Plage_Parlee.JPG"}
+    ],
+
+    "temples" : [
+        {"country" : "canada", "place" : "Latter-day Saint ", "details" : "The Church of Jesus Christ of Latter-day Saints has several temples in Canada, with the Cardston Alberta Temple being the first built outside the U.S. and the oldest LDS temple in Canada.", "picture" : "https://www.abc4.com/wp-content/uploads/sites/4/2024/08/IMG_7258-rotated.jpeg"},
+        {"country" : "canada", "place" : "Buddhist", "details" : "Various traditions, including Jodo Shinshu Buddhism, have temples across Canada, with locations in major cities like Vancouver, Toronto, and smaller communities.", "picture" : "https://upload.wikimedia.org/wikipedia/commons/1/15/Buddhist_Temple_on_No._5_Road%2C_Richmond%2C_British_Columbia%2C_Canada.jpg"}
+    ]
+
+}
